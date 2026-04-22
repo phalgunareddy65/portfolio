@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phalgunareddy65/portfolio.git/static/css/main.38546088.css",
+    "main.js": "/phalgunareddy65/portfolio.git/static/js/main.60d0794c.js",
+    "index.html": "/phalgunareddy65/portfolio.git/index.html",
+    "main.38546088.css.map": "/phalgunareddy65/portfolio.git/static/css/main.38546088.css.map",
+    "main.60d0794c.js.map": "/phalgunareddy65/portfolio.git/static/js/main.60d0794c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38546088.css",
+    "static/js/main.60d0794c.js"
+  ]
+}
